@@ -1,6 +1,4 @@
-Got it 👍 Here’s the full **README.md** ready for copy-paste straight into your repo:
 
----
 
 # Polynomial Calculator (Android)
 
